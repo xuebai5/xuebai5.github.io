@@ -3,8 +3,10 @@
 - Qt6.4.2.0
 - Filament - Google cross-platform real-time physically based rendering engine
 - CMake
-### Screenshot
-<img src="screenshot/SkyEditor1.png" width=100%>
+### Screenshot1
+![SkyEditor1](screenshot/SkyEditor1.png)
+### Screenshot2
+<img src="screenshot/SkyEditor1.png" width="100%">
 
 
 # SkyServer
@@ -14,6 +16,7 @@
 - 工作在传输层/网络层(TCP/IP)
 - Asio实现网络跨平台(IOCP/EPOLL)
 - 同时支持TCP/WEBSOCKET连接
+- Accept/NetIO线程可配置
 - Protobuf格式网络协议
 - MySQL存储冷数据
 - Redis存储热数据
