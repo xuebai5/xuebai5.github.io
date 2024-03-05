@@ -37,4 +37,4 @@ start ServerClient.exe
 - Qt6.4.2.0
 - Filament - Google cross-platform real-time physically based rendering engine
 - CMake
-<img src="screenshot/SkyEditor1.png" width=100%>
+<img src="screenshot/SkyEditor1.png">
