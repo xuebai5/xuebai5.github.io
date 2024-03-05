@@ -14,11 +14,11 @@
 - 使用Curl进行HTTP访问
 
 ### Screenshot
-<img src="screenshot/ServerDB.png" width=30%>
-<img src="screenshot/ServerLogin.png" width=30%>
-<img src="screenshot/ServerWorld.png" width=30%>
-<img src="screenshot/ServerClient.png" width=30%>
-<img src="screenshot/SkyServer.png" width=30%>
+<img src="screenshot/ServerDB.png" width=100%>
+<img src="screenshot/ServerLogin.png" width=100%>
+<img src="screenshot/ServerWorld.png" width=100%>
+<img src="screenshot/ServerClient.png" width=100%>
+<img src="screenshot/SkyServer.png" width=100%>
 
 ### Usage
 - Run redis
