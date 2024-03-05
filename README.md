@@ -21,13 +21,13 @@
 - Recast自动寻路
 - Yaml格式配置
 - 使用Curl进行HTTP访问
+- 订阅发布模式消息分发器
 ### Screenshot
 ![ServerDB](screenshot/ServerDB.png)
 ![ServerLogin](screenshot/ServerLogin.png)
 ![ServerWorld](screenshot/ServerWorld.png)
 ![ServerClient](screenshot/ServerClient.png)
 ![SkyServer](screenshot/SkyServer.png)
-
 ### Usage
 - Run redis
 - Run mysql
@@ -39,4 +39,33 @@ start ServerClient.exe
 ```
 
 
+# 大主宰(同时60万人在线)
+### 支持Windows、Android、iOS多平台游戏
+- C++98/Lua5.1.4
+- 服务器基于IOCP
+- 渲染Windows基于DirectX9，移动平台基于GLES2.0
+- 自动更新
+- 客户端逻辑Lua
+### Screenshot
+![dzz1](screenshot/dzz1.jpg)
+![dzz2](screenshot/dzz2.png)
+![dzz3](screenshot/dzz3.png)
 
+# UiEditor
+### 数据驱动的UI编辑器
+- 基于9个方向对齐的全平台屏幕适配方案
+- 支持3D模型
+- 支持Spine动画
+- 
+
+### Screenshot
+![UiEditor1](screenshot/UiEditor1.png)
+![UiEditor2](screenshot/UiEditor2.png)
+![UiEditor3](screenshot/UiEditor3.png)
+
+
+## 个人联系方式
+#### 电话：(+86)18601672665 
+#### 微信：18601672665 
+#### QQ：305812109
+#### Mail：xuebai5@qq.com
