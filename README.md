@@ -39,7 +39,7 @@ start ServerClient.exe
 ```
 
 
-# 大主宰(同时60万人在线)
+# 大主宰
 ### 支持Windows、Android、iOS多平台游戏
 - C++98/Lua5.1.4
 - 服务器基于IOCP
@@ -56,8 +56,6 @@ start ServerClient.exe
 - 基于9个方向对齐的全平台屏幕适配方案
 - 支持3D模型
 - 支持Spine动画
-- 
-
 ### Screenshot
 ![UiEditor1](screenshot/UiEditor1.png)
 ![UiEditor2](screenshot/UiEditor2.png)
@@ -65,7 +63,7 @@ start ServerClient.exe
 
 
 ## 个人联系方式
-#### 电话：(+86)18601672665 
-#### 微信：18601672665 
-#### QQ：305812109
-#### Mail：xuebai5@qq.com
+##### 电话：(+86)18601672665 
+##### 微信：18601672665 
+##### QQ：305812109
+##### Mail：xuebai5@qq.com
