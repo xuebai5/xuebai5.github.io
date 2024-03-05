@@ -3,7 +3,7 @@
 - Qt6.4.2.0
 - Filament - Google cross-platform real-time physically based rendering engine
 - CMake
-### Screenshot1
+### Screenshot
 ![SkyEditor1](screenshot/SkyEditor1.png)
 
 
