@@ -1,12 +1,10 @@
 # SkyEditor
-### C++20 gltf resource viewer
+### C++20 glb(gltf) resource viewer
 - Qt6.4.2.0
 - Filament - Google cross-platform real-time physically based rendering engine
 - CMake
 ### Screenshot1
 ![SkyEditor1](screenshot/SkyEditor1.png)
-### Screenshot2
-<img src="screenshot/SkyEditor1.png" width="100%">
 
 
 # SkyServer
@@ -24,11 +22,11 @@
 - Yaml格式配置
 - 使用Curl进行HTTP访问
 ### Screenshot
-<img src="screenshot/ServerDB.png" width=100%>
-<img src="screenshot/ServerLogin.png" width=100%>
-<img src="screenshot/ServerWorld.png" width=100%>
-<img src="screenshot/ServerClient.png" width=100%>
-<img src="screenshot/SkyServer.png" width=100%>
+![ServerDB](screenshot/ServerDB.png)
+![ServerLogin](screenshot/ServerLogin.png)
+![ServerWorld](screenshot/ServerWorld.png)
+![ServerClient](screenshot/ServerClient.png)
+![SkyServer](screenshot/SkyServer.png)
 
 ### Usage
 - Run redis
