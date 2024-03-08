@@ -69,7 +69,7 @@ start ServerClient.exe
 ![Ares5](screenshot/Ares5.png)
 
 
-## 个人联系方式
+# 个人联系方式
 ##### 电话：(+86)18601672665 
 ##### 微信：18601672665 
 ##### QQ：305812109
